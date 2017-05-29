@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+
+	#fyre{
+		display:none;
+	}
+	
+	.slicknav_menu {
+		display:block;
+	}
+
+	.home-portfolio-list li{
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.home-portfolio-list li{
+		width: 100%;
+	}
+
+}
